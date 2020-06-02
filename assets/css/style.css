@@ -1,0 +1,12 @@
+/* To show that this file was loaded from a static route */
+body, html {
+	background: skyblue;
+}
+
+h1 {
+	color: white;
+}
+
+a {
+	color: rgba(255, 255, 255, 0.8) !important;
+}
